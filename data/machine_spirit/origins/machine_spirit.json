@@ -1,0 +1,15 @@
+{
+	"name":"Machine Spirit",
+	"powers":[
+		"technetium:unnatural",
+		"machine_spirit:spirit",
+		"machine_spirit:body",
+		"machine_spirit:desc1",
+		"machine_spirit:desc2",
+		"machine_spirit:desc3",
+		"machine_spirit:desc4",
+		"machine_spirit:dustdupe"
+	],
+	"icon":"minecraft:redstone_block",
+	"impact":3
+}
